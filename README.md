@@ -1,4 +1,4 @@
-# Quantum Key Distribution Domain-Specific Language (DSL)
+# Quantum Key Distribution Domain-Specific Language
 
 ## Overview
 The **Quantum Key Distribution (QKD) DSL** is a Domain-Specific Language designed for simulating quantum cryptography and post-quantum cryptography algorithms. It provides cryptographers and developers with an intuitive platform for defining and testing quantum-safe cryptographic protocols, particularly focusing on QKD mechanisms.
