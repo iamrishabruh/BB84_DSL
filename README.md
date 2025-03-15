@@ -4,11 +4,11 @@
 The **Quantum Key Distribution (QKD) DSL** is a Domain-Specific Language designed for simulating quantum cryptography and post-quantum cryptography algorithms. It provides cryptographers and developers with an intuitive platform for defining and testing quantum-safe cryptographic protocols, particularly focusing on QKD mechanisms.
 
 ## Features
-- **Specialized Syntax:** Enables defining quantum cryptographic protocols with ease.
-- **Quantum Operations:** Support for single and multi-qubit gates (e.g., Hadamard, CNOT).
-- **Classical Operations:** Handles key sifting, eavesdropping detection, and hybrid quantum-classical operations.
-- **Simulation Tools:** Test eavesdropping scenarios and security protocols.
-- **Extensibility:** Easily adaptable for future developments in post-quantum cryptography.
+- Specialized syntax Enables defining quantum cryptographic protocols with ease.
+- Quantum operations support for single and multi-qubit gates (Hadamard, CNOT).
+- Classical operations handle key sifting, eavesdropping detection, and hybrid quantum-classical operations.
+- Simulation tools test eavesdropping scenarios and security protocols.
+- Built modular to be easily adaptable for future developments in post-quantum cryptography.
 
 ## Grammar Overview
 The DSL uses a grammar defined in Extended Backus-Naur Form (EBNF) to support constructs for quantum operations, function definitions, conditional statements, and more.
